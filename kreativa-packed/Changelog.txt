@@ -1,0 +1,171 @@
+---------------------------
+Version 1.7
+---------------------------
+
+Proofing Archives and Taxonomy
+Theme Options controls for Proofing archives
+
+Added /kreativa/archive-mtheme_proofing.php
+Modified /kreativa/framework/admin/tgm/tgm-init.php
+Modified /kreativa/framework/options/options-data.php
+Modified /kreativa/style.css
+Added /kreativa/taxonomy-proofingsection.php
+Modified /kreativa/template-parts/header-title.php
+
+Plugins
+'framework/plugins/imaginem-shortcodes-r11.zip
+
+---------------------------
+Version 1.6
+---------------------------
+
+Fix: To tabs for PHP 7
+Minor adjustments to Pagebuilder
+
+Files 'framework/admin/css/style.css'
+Files 'framework/admin/tgm/tgm-init.php'
+Files 'framework/functions/theme-functions.php'
+Files 'framework/options/admin/css/admin-style.css'
+Files 'js/jquery.tubular.1.0.js'
+Files 'js/tilt.jquery.js'
+Files 'style.css'
+
+Plugins
+'framework/plugins/imaginem-builder-r6.zip
+'framework/plugins/imaginem-shortcodes-r11.zip
+
+---------------------------
+Version 1.5
+---------------------------
+
+Add Events choise for "Past Event"
+Add Events pabebuilder block
+Fix Thumbnails Gallery filter to display only the filtered lightboxes
+
+Files 'framework/admin/js/postmetaboxes.js'
+Files 'framework/admin/tgm/tgm-init.php'
+Files 'framework/functions/theme-functions.php'
+Files 'framework/metaboxes/events-metaboxes.php'
+Files 'framework/metaboxes/portfolio-metaboxes.php'
+Files 'framework/options/admin/js/init.js'
+Files 'js/page-elements.js'
+Files 'style.css'
+Files 'template-parts/fullscreen/fullscreen-supersized.php'
+
+Plugins
+'framework/plugins/imaginem-builder-r6.zip
+'framework/plugins/imaginem-shortcodes-r11.zip
+
+---------------------------
+Version 1.4
+---------------------------
+
+Fix: Blog small layout from pagebuilder
+Fix: WooCommerce style corrections
+
+Files 'css/responsive.css'
+Files 'framework/admin/tgm/tgm-init.php'
+Files 'style-dark.css'
+Files 'style.css'
+
+Plugins
+'framework/plugins/imaginem-shortcodes-r11.zip
+
+---------------------------
+Version 1.3
+---------------------------
+
+Instagram grid fix for non square images
+Lightbox title on/off via theme options
+
+Files 'css/dynamic_css.php'
+Files 'framework/admin/tgm/tgm-init.php'
+Files 'framework/options/options-data.php'
+Files 'style.css'
+Files 'template-parts/header-title.php'
+
+Plugins
+'framework/plugins/imaginem-shortcodes-r11.zip
+
+---------------------------
+Version 1.2
+---------------------------
+
+WooCommerce variations fix
+Thumbnail galleries minor fixes
+Pagebuilder minor style fixes
+
+Files 'framework/admin/tgm/tgm-init.php'
+Files 'includes/background/fullscreen-slideshow.php'
+Files 'style-dark.css'
+Files 'style.css'
+Files 'woocommerce/single-product/product-image.php'
+Files 'woocommerce/single-product/product-thumbnails.php'
+
+Plugins
+'framework/plugins/imaginem-builder-r6.zip
+'framework/plugins/imaginem-shortcodes-r11.zip
+
+---------------------------
+Version 1.1
+---------------------------
+
+Pagebuiler Upgrade
+Portfolio permalink slug change choice
+Photowall lightbox thumbnails fix
+
+Files 'framework/admin/tgm/tgm-init.php'
+Files 'style.css'
+Files 'template-parts/fullscreen/fullscreen-photowall.php'
+
+Plugins
+'framework/plugins/imaginem-builder-r6.zip
+'framework/plugins/imaginem-portfolio-post-type-r5.zip
+
+---------------------------
+Version 1.0.3
+---------------------------
+Minor transition changes in Horizontal fullscreen toggle
+Fotorama thumbnails centered in Horizontal menu style
+
+Files 'style.css'
+
+---------------------------
+Version 1.0.2
+---------------------------
+
+ADD: Horizontal Menu
+
+Files 'css/dynamic_css.php'
+Files 'css/responsive.css'
+Files 'footer.php'
+Files 'framework/functions/theme-functions.php'
+Files 'framework/options/[all files and folders]
+Files 'functions.php'
+Files 'header.php'
+Files 'js/common.js'
+Files 'js/page-elements.js'
+Files 'search.php'
+Files 'style-dark.css'
+Files 'style.css'
+Files 'template-parts/fullscreen/fullscreen-supersized.php'
+Files 'template-parts/header-navigation.php'
+Files 'template-parts/header-title.php'
+
+---------------------------
+Version 1.0.1
+---------------------------
+
+Added One Click Demo Importer
+
+Files 'framework/admin/tgm/tgm-init.php'
+Files 'framework/options/admin/options-framework.php'
+Files 'framework/options/options-data.php'
+Files 'style.css'
+
+Plugins
+'framework/plugins/kreativa-demo-importer.zip
+
+---------------------------
+Version 1.0 initial release
+---------------------------
